@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raman Malik
-- 👀 I’m interested in java coding
+- 👀 I’m a Java Developer
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking forward to collaborate 
 - 📫 How to reach me .... mail me ramanmaliks@gmail.com
