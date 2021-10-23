@@ -1,5 +1,5 @@
-👋 Hi, I’m Raman Malik
-👀 I’m a Java Developer 
+- 👋 Hi, I’m Raman Malik
+- 👀 I’m a Java Developer 
 with total experience of 3.5 years and 2 years relevant experience in java
 I have done Sun Java Certification
 I have also done Bachelors Degree in BBA (Marketing).
